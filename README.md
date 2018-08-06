@@ -4,7 +4,7 @@ Tracking Papers, Summarize and Codes
 
 
 SoundingBoard: AUser-CentricandContent-DrivenSocialChatbot
--[] Artificial Paranoia
+-[ ] Artificial Paranoia
 - The mini-IPIP scales: tiny-yet-effective measures of the Big Five factors of personality. 
 - Aknowledge-groundedneural conversation model
 - Building an architecture for extensibleself-servicespokenlanguageunderstanding
