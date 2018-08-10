@@ -1,6 +1,8 @@
 # 100daysofcodes
 Tracking Papers, Summarize and Codes 
 
+Day1: [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py)
+
 
 
 SoundingBoard: AUser-CentricandContent-DrivenSocialChatbot
