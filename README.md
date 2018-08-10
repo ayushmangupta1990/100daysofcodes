@@ -1,7 +1,7 @@
 # 100daysofcodes
 Tracking Papers, Summarize and Codes 
 
-Day1: [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py)
+Day1: A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper][https://arxiv.org/pdf/1703.03130.pdf]
 
 
 
