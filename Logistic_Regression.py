@@ -6,6 +6,11 @@ import torchvision.transforms as transforms
 import numpy as np
 #LOADING DATASET#LOADIN 
 
+
+# Loss function of Logistic Regression
+## -y* np.log(h) - (1-y) * np.log(1-h)
+
+
 batch_size = 128
 
 train_dataset = dsets.MNIST(root='./data', 
