@@ -1,7 +1,16 @@
 # 100daysofcodes
 Tracking Papers, Summarize and Codes 
 
-Day1: A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper](https://arxiv.org/pdf/1703.03130.pdf)
+#### Day1: PyTorch Implementations 
+- Linearn Regression
+- Logistic Regression
+- Nueral Network
+- Basic CNN
+
+
+#### Day2: 
+- Basic RNN
+- A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper](https://arxiv.org/pdf/1703.03130.pdf)
 
 
 
