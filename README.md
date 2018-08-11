@@ -2,15 +2,15 @@
 Tracking Papers, Summarize and Codes 
 
 #### Day1: 
-- Linearn Regression [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Linear_Regression.py)
-- Logistic Regression [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Logistic_Regression.py)
-- Nueral Network [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Neural_Network.py)
-- Basic CNN [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/convolution_NN.py)
+- [x] Linearn Regression [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Linear_Regression.py)
+- [x] Logistic Regression [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Logistic_Regression.py)
+- [x]Nueral Network [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Neural_Network.py)
+- [x]Basic CNN [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/convolution_NN.py)
 
 
 #### Day2: 
-- Basic RNN
-- A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper](https://arxiv.org/pdf/1703.03130.pdf)
+- [ ] Basic RNN
+- [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper](https://arxiv.org/pdf/1703.03130.pdf)
 
 
 
