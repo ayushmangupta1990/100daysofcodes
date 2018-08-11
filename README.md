@@ -1,11 +1,11 @@
 # 100daysofcodes
 Tracking Papers, Summarize and Codes 
 
-#### Day1: PyTorch Implementations 
-- Linearn Regression
-- Logistic Regression
-- Nueral Network
-- Basic CNN
+#### Day1: 
+- Linearn Regression [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Linear_Regression.py)
+- Logistic Regression [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Logistic_Regression.py)
+- Nueral Network [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Neural_Network.py)
+- Basic CNN [PyTorch Code](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/convolution_NN.py)
 
 
 #### Day2: 
