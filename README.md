@@ -10,7 +10,7 @@ Tracking Papers, Summarize and Codes
 
 #### Day2: 
 
-- [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181)
+- [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181) [PyTorch](https://github.com/kdrl/CNN-Sentence-Classification-PyTorch/blob/master/main.py)
 
 
 - [ ] Basic RNN
