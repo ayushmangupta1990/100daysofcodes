@@ -9,6 +9,10 @@ Tracking Papers, Summarize and Codes
 
 
 #### Day2: 
+
+- [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181)
+
+
 - [ ] Basic RNN
 - [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper](https://arxiv.org/pdf/1703.03130.pdf)
 
