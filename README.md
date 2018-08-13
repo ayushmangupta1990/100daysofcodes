@@ -15,6 +15,9 @@ Tracking Papers, Summarize and Codes
 
 
 #### Day3: 
+- [x] PyTorch Helping BooK [Link](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/helper.md)
+- [ ] Design Challenges and Misconceptions in Neural Sequence Labeling [Paper](https://arxiv.org/abs/1806.04470)
+- [ ] POS tagger PyTorch 97.5% acc [Link](https://github.com/jkkummerfeld/neural-tagger-tutorial/blob/master/tagger.pt.py)
 - [ ] Hierarchical  Softmax (Helpful for large datasets)
 
 - [ ] Basic RNN
