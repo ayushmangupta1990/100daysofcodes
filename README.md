@@ -23,13 +23,20 @@ Tracking Papers, Summarize and Codes
 - [ ] Basic RNN
 - [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) | [Paper](https://arxiv.org/pdf/1703.03130.pdf)
 
-#### Day4:
+#### Day 4:
+- [ ] Review of probability theory [L](http://cs229.stanford.edu/section/cs229-prob.pdf)
+- [ ] PyTorch with examples [L](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
+- [ ] Best Practice for ML engineer [L](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+- [ ] Computational Linear Algebra [Fast AI Course](http://www.fast.ai/2017/07/17/num-lin-alg/)
+- [ ] Deep Learning A Critical Appriasal [L](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
+
+#### Day 5:
 - [ ] Universal Language Model Fine-tuning for Text Classification [Link](https://arxiv.org/pdf/1801.06146.pdf)
 - [ ] Deep Pyramid Convolutional Neural Networks for Text Categorization
 
 
 
-#### Day5:
+#### Day 6:
 - [ ] 	Improving Language Understanding by Generative Pre-Training
 
 
