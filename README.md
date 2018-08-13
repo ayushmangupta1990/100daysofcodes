@@ -11,7 +11,7 @@ Tracking Papers, Summarize and Codes
 #### Day2: 
 
 - [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181) [PyTorch](https://github.com/kdrl/CNN-Sentence-Classification-PyTorch/blob/master/main.py)
-- [x] [NN for sentence Classification Fast Text]() [Sklearn](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Text%20Classifier%20Fast%20Text%20.ipynb)
+- [x] NN for sentence Classification Fast Text [Sklearn](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Text%20Classifier%20Fast%20Text%20.ipynb) [Fast Text](https://fasttext.cc/docs/en/unsupervised-tutorial.html)
 
 
 #### Day3: 
