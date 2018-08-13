@@ -11,7 +11,11 @@ Tracking Papers, Summarize and Codes
 #### Day2: 
 
 - [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181) [PyTorch](https://github.com/kdrl/CNN-Sentence-Classification-PyTorch/blob/master/main.py)
+- [ ] [CNN for sentence Classification]() [Keras]()
 
+
+#### Day3: 
+- [ ] Hierarchical  Softmax
 
 - [ ] Basic RNN
 - [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper](https://arxiv.org/pdf/1703.03130.pdf)
