@@ -1,4 +1,6 @@
 
+### lr scheduler 
+
 ```python
 optimizer = torch.optim.SGD(model.parameters(), lr=LEARNING_RATE,
             weight_decay=WEIGHT_DECAY)
