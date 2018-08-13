@@ -10,7 +10,7 @@ Tracking Papers, Summarize and Codes
 
 #### Day2: 
 
-- [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181) [PyTorch](https://github.com/kdrl/CNN-Sentence-Classification-PyTorch/blob/master/main.py)  [Link 2](http://ai.intelligentonlinetools.com/ml/)
+- [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181) [PyTorch](https://github.com/kdrl/CNN-Sentence-Classification-PyTorch/blob/master/main.py) |  [Link 2](http://ai.intelligentonlinetools.com/ml/)
 - [x] NN for sentence Classification Fast Text [Sklearn](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Text%20Classifier%20Fast%20Text%20.ipynb) [Fast Text](https://fasttext.cc/docs/en/unsupervised-tutorial.html)
 
 
@@ -18,7 +18,7 @@ Tracking Papers, Summarize and Codes
 - [ ] Hierarchical  Softmax (Helpful for large datasets)
 
 - [ ] Basic RNN
-- [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) [Paper](https://arxiv.org/pdf/1703.03130.pdf)
+- [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) | [Paper](https://arxiv.org/pdf/1703.03130.pdf)
 
 
 
