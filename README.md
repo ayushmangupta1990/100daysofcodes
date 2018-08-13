@@ -23,6 +23,16 @@ Tracking Papers, Summarize and Codes
 - [ ] Basic RNN
 - [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) | [Paper](https://arxiv.org/pdf/1703.03130.pdf)
 
+#### Day4:
+- [ ] Universal Language Model Fine-tuning for Text Classification [Link](https://arxiv.org/pdf/1801.06146.pdf)
+- [ ] Deep Pyramid Convolutional Neural Networks for Text Categorization
+
+
+
+#### Day5:
+- [ ] 	Improving Language Understanding by Generative Pre-Training
+
+
 
 
 SoundingBoard: AUser-CentricandContent-DrivenSocialChatbot
