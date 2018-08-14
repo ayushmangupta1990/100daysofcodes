@@ -32,14 +32,18 @@ Tracking Papers, Summarize and Codes
 - [ ] Deep Learning A Critical Appriasal [L](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 
 #### Day 5:
-- [ ] Universal Language Model Fine-tuning for Text Classification [Link](https://arxiv.org/pdf/1801.06146.pdf)
-- [ ] Deep Pyramid Convolutional Neural Networks for Text Categorization
+- Word2Vec [Summary](w2v_sum.md)
+- Glove [Summary](glove_sum.md)
+- FastText [Summary](fasttext_sum.md)
+
 
 
 
 #### Day 6:
-- [ ] 	Improving Language Understanding by Generative Pre-Training
 
+- [ ] Universal Language Model Fine-tuning for Text Classification [Link](https://arxiv.org/pdf/1801.06146.pdf)
+- [ ] Improving Language Understanding by Generative Pre-Training
+- [ ] Deep Pyramid Convolutional Neural Networks for Text Categorization
 
 
 
