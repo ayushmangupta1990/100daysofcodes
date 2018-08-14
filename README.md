@@ -12,7 +12,6 @@ Tracking Papers, Summarize and Codes
 
 - [ ] [CNN for sentence Classification](http://www.aclweb.org/anthology/D14-1181) [PyTorch](https://github.com/kdrl/CNN-Sentence-Classification-PyTorch/blob/master/main.py) |  [Link 2](http://ai.intelligentonlinetools.com/ml/)
 - [x] NN for sentence Classification Fast Text [Sklearn](https://github.com/ayushmangupta1990/100daysofcodes/blob/master/Text%20Classifier%20Fast%20Text%20.ipynb) [Fast Text](https://fasttext.cc/docs/en/unsupervised-tutorial.html)
-
 - [ ] Understanding Convolution in Text [L](http://debajyotidatta.github.io/nlp/deep/learning/word-embeddings/2016/11/27/Understanding-Convolutions-In-Text/)
 
 
