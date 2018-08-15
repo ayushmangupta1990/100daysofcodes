@@ -24,17 +24,21 @@ Tracking Papers, Summarize and Codes
 - [ ] Basic RNN
 - [ ] A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING [Github](https://github.com/kaushalshetty/Structured-Self-Attention/blob/master/classification.py) | [Paper](https://arxiv.org/pdf/1703.03130.pdf)
 
-#### Day 4:
+#### Day 6:
+
+- [ ] CNN+LSTM [L](https://medium.com/@sabber/classifying-yelp-review-comments-using-lstm-and-word-embeddings-part-1-eb2275e4066b)
+- [ ] Word2Vec [Summary](w2v_sum.md)
+- [ ] Glove [Summary](glove_sum.md)
+- [ ] FastText [Summary](fasttext_sum.md)
+
+#### Day 5:
 - [ ] Review of probability theory [L](http://cs229.stanford.edu/section/cs229-prob.pdf)
 - [ ] PyTorch with examples [L](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 - [ ] Best Practice for ML engineer [L](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [ ] Computational Linear Algebra [Fast AI Course](http://www.fast.ai/2017/07/17/num-lin-alg/)
 - [ ] Deep Learning A Critical Appriasal [L](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 
-#### Day 5:
-- Word2Vec [Summary](w2v_sum.md)
-- Glove [Summary](glove_sum.md)
-- FastText [Summary](fasttext_sum.md)
+
 
 
 
